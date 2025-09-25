@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DevDeck.API/DevDeck.API.csproj" />
+  <Project Path="DevDeck.App/DevDeck.App.csproj" />
+  <Project Path="DevDeck.Shared/DevDeck.Shared.csproj" />
+</Solution>
